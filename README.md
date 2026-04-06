@@ -1,1 +1,86 @@
-UEdScGRpQmhiR2xuYmowaVkyVnVkR1Z5SWo0S0NpTWc4SitSaXlCQmN5MXpZV3hoYlhVZ1lXeGhlV3QxYlNFZ1NTZHRJRTExWkdGemFYSWdXbWxoQ2dvakl5TWc4SitVa0NCRGVXSmxjbk5sWTNWeWFYUjVJRk4wZFdSbGJuUWdmQ0R3bjVDYklFSjFaeUJDYjNWdWRIa2dTSFZ1ZEdWeUlId2c4SitTdXlCWFpXSWdSR1YyWld4dmNHVnlDaW9xOEorVGpTQk5ZVzV6WldoeVlTd2dVR0ZyYVhOMFlXNHFLZ29LUEM5a2FYWStDZ290TFMwS0NpTWpJUENmbW9BZ1FXSnZkWFFnVFdVS0NpMGc4SitPa3lBeWJtUWdXV1ZoY2lCR1UwTWdLRU52YlhCMWRHVnlJRk5qYVdWdVkyVXBJSE4wZFdSbGJuUWc0b0NVSUUxaGJuTmxhSEpoTENCUVlXdHBjM1JoYmdvdElQQ2ZsSTBnUVdOMGFYWmxiSGtnYkdWaGNtNXBibWNnS2lwQ2RXY2dRbTkxYm5SNUlFaDFiblJwYm1jcUtpQW9XRk5UTENCVFVVeHBMQ0JUVTFKR0xDQkpSRTlTS1FvdElQQ2ZqSkFnVjJWaUlFUmxkbVZzYjNCbGNqb2dLaXBJVkUxTU5Td2dRMU5UTXl3Z1NtRjJZVk5qY21sd2RDd2dRbTl2ZEhOMGNtRndOU3dnVUVoUUxDQk5lVk5SVENvcUNpMGc4SitRalNCUWVYUm9iMjRnWkdWMlpXeHZjR1Z5T2lBcUtrOVBVQ3dnWVhWMGIyMWhkR2x2YmlCMGIyOXNjeXdnYzJWamRYSnBkSGtnYzJOeWFYQjBjeW9xQ2kwZzhKK01zU0JEZFhKeVpXNTBiSGtnYkdWaGNtNXBibWM2SUNvcVJHcGhibWR2S2lvZ0t5QmhaSFpoYm1OcGJtY2dhVzRnS2lwWFpXSWdVR1Z1ZEdWemRHbHVaeW9xQ2kwZzhKK09yeUJIYjJGc09pQkNaV052YldVZ1lTQndjbTltWlhOemFXOXVZV3dnUW5WbklFaDFiblJsY2lBbUlFWjFiR3d0VTNSaFkyc2dSR1YyWld4dmNHVnlDZ290TFMwS0NpTWpJUENmbTZEdnVJOGdWR1ZqYUNCVGRHRmphd29LSVZ0SVZFMU1OVjBvYUhSMGNITTZMeTlwYldjdWMyaHBaV3hrY3k1cGJ5OWlZV1JuWlM5SVZFMU1OUzFGTXpSR01qWS9jM1I1YkdVOVpteGhkQ1pzYjJkdlBXaDBiV3cxSm14dloyOURiMnh2Y2oxM2FHbDBaU2tLSVZ0RFUxTXpYU2hvZEhSd2N6b3ZMMmx0Wnk1emFHbGxiR1J6TG1sdkwySmhaR2RsTDBOVFV6TXRNVFUzTWtJMlAzTjBlV3hsUFdac1lYUW1iRzluYnoxamMzTXpKbXh2WjI5RGIyeHZjajEzYUdsMFpTa0tJVnRLWVhaaFUyTnlhWEIwWFNob2RIUndjem92TDJsdFp5NXphR2xsYkdSekxtbHZMMkpoWkdkbEwwcGhkbUZUWTNKcGNIUXRSamRFUmpGRlAzTjBlV3hsUFdac1lYUW1iRzluYnoxcVlYWmhjMk55YVhCMEpteHZaMjlEYjJ4dmNqMWliR0ZqYXlrS0lWdENiMjkwYzNSeVlYQmRLR2gwZEhCek9pOHZhVzFuTG5Ob2FXVnNaSE11YVc4dlltRmtaMlV2UW05dmRITjBjbUZ3TFRVMk0wUTNRejl6ZEhsc1pUMW1iR0YwSm14dloyODlZbTl2ZEhOMGNtRndKbXh2WjI5RGIyeHZjajEzYUdsMFpTa0tJVnRRZVhSb2IyNWRLR2gwZEhCek9pOHZhVzFuTG5Ob2FXVnNaSE11YVc4dlltRmtaMlV2VUhsMGFHOXVMVE0zTnpaQlFqOXpkSGxzWlQxbWJHRjBKbXh2WjI4OWNIbDBhRzl1Sm14dloyOURiMnh2Y2oxM2FHbDBaU2tLSVZ0RWFtRnVaMjlkS0doMGRIQnpPaTh2YVcxbkxuTm9hV1ZzWkhNdWFXOHZZbUZrWjJVdlJHcGhibWR2TFRBNU1rVXlNRDl6ZEhsc1pUMW1iR0YwSm14dloyODlaR3BoYm1kdkpteHZaMjlEYjJ4dmNqMTNhR2wwWlNrS0lWdFFTRkJkS0doMGRIQnpPaTh2YVcxbkxuTm9hV1ZzWkhNdWFXOHZZbUZrWjJVdlVFaFFMVGMzTjBKQ05EOXpkSGxzWlQxbWJHRjBKbXh2WjI4OWNHaHdKbXh2WjI5RGIyeHZjajEzYUdsMFpTa0tJVnROZVZOUlRGMG9hSFIwY0hNNkx5OXBiV2N1YzJocFpXeGtjeTVwYnk5aVlXUm5aUzlOZVZOUlRDMDBORGM1UVRFL2MzUjViR1U5Wm14aGRDWnNiMmR2UFcxNWMzRnNKbXh2WjI5RGIyeHZjajEzYUdsMFpTa0tJVnRMWVd4cElFeHBiblY0WFNob2RIUndjem92TDJsdFp5NXphR2xsYkdSekxtbHZMMkpoWkdkbEwwdGhiR2xmVEdsdWRYZ3ROVFUzUXprMFAzTjBlV3hsUFdac1lYUW1iRzluYnoxcllXeHBMV3hwYm5WNEpteHZaMjlEYjJ4dmNqMTNhR2wwWlNrS0lWdENZWE5vWFNob2RIUndjem92TDJsdFp5NXphR2xsYkdSekxtbHZMMkpoWkdkbEwwSmhjMmd0TkVWQlFUSTFQM04wZVd4bFBXWnNZWFFtYkc5bmJ6MW5iblV0WW1GemFDWnNiMmR2UTI5c2IzSTlkMmhwZEdVcENnb3RMUzBLQ2lNaklQQ2ZsSkFnVTJWamRYSnBkSGtnVUhKdmFtVmpkSE1LQ253Z1VISnZhbVZqZENCOElFUmxjMk55YVhCMGFXOXVJSHdnVkdWamFDQjhDbnd0TFMxOExTMHRmQzB0TFh3S2ZDQmJXRk5USUVsdWFtVmpkR2x2YmlCTVlXSmRLR2gwZEhCek9pOHZaMmwwYUhWaUxtTnZiUzlEZVdKbGNrSnliM00wTXpVdldGTlRYMGx1YW1WamRHbHZibDlNWVdJcElId2dWblZzYm1WeVlXSnNaU0JzWVdJZ1ptOXlJRmhUVXlBbUlGTlJUR2tnY0hKaFkzUnBZMlVnZkNCUVNGQXNJRWhVVFV3Z2ZBcDhJRnRKUkU5U0lGWjFiRzRnVEdGaVhTaG9kSFJ3Y3pvdkwyZHBkR2gxWWk1amIyMHZRM2xpWlhKQ2NtOXpORE0xTDBsRVQxSmZkblZzYmw5TVFVSXBJSHdnU1VSUFVpQndjbUZqZEdsalpTQnNZV0lnWm05eUlHSjFaeUJvZFc1MFpYSnpJSHdnVUhsMGFHOXVJSHdLZkNCYlNHRnphQ0JIWlc1bGNtRjBiM0pkS0doMGRIQnpPaTh2WjJsMGFIVmlMbU52YlM5RGVXSmxja0p5YjNNME16VXZTR0Z6YUY5SFpXNWxjbUYwYjNJcElId2dSMlZ1WlhKaGRHVWdNVElnYUdGemFDQjBlWEJsY3pvZ1RVUTFMQ0JUU0VFeU5UWXNJRUpNUVV0Rk1pQjhJRkI1ZEdodmJpQjhDbndnVzBoaGMyZ2dRM0poWTJ0bGNsMG9hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMME41WW1WeVFuSnZjelF6TlM5SVlYTm9YME55WVdOclpYSXBJSHdnUTNKaFkyc2dZMjl0Ylc5dUlHaGhjMmdnZEhsd1pYTWdmQ0JRZVhSb2IyNGdmQXA4SUZ0SVlYTm9JRWxrWlc1MGFXWnBaWEpkS0doMGRIQnpPaTh2WjJsMGFIVmlMbU52YlM5RGVXSmxja0p5YjNNME16VXZTR0Z6YUY5SlpHVnVkR2xtYVdWeUtTQjhJRWxrWlc1MGFXWjVJSFZ1YTI1dmQyNGdhR0Z6YUNCMGVYQmxjeUI4SUZCNWRHaHZiaUI4Q253Z1cwUk9VeUJUWlhKMlpYSmRLR2gwZEhCek9pOHZaMmwwYUhWaUxtTnZiUzlEZVdKbGNrSnliM00wTXpVdlJFNVRYMU5sY25abGNpa2dmQ0JFYjIxaGFXNGdhVzVtYnlBbUlIQjFZbXhwWXlCSlVDQnNiMjlyZFhBZ2RHOXZiQ0I4SUZCNWRHaHZiaUI4Q253Z1cwbFFJRk5qWVc1dVpYSmRLR2gwZEhCek9pOHZaMmwwYUhWaUxtTnZiUzlEZVdKbGNrSnliM00wTXpVdlNWQmZVMk5oYm01bGNpa2dmQ0JPWlhSM2IzSnJJSE5qWVc1dVpYSWdkMmwwYUNCd2FXNW5JQ1lnYlc5eVpTQjhJRkI1ZEdodmJpQjhDbndnVzFCRVJpQlViMjlzY3lCVGRXbDBaVjBvYUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBONVltVnlRbkp2Y3pRek5TOVFSRVpmWTI5dGNISmxjM052Y2lrZ2ZDQlFSRVlnWTI5dGNISmxjM01zSUcxbGNtZGxMQ0J6Y0d4cGRDd2dZMjl1ZG1WeWRDQjhJRkI1ZEdodmJpQjhDZ290TFMwS0NpTWpJUENmazRnZ1JHRnBiSGtnVEdWaGNtNXBibWNnVEc5bkNnbytJQ3BWY0dSaGRHVmtJR0YxZEc5dFlYUnBZMkZzYkhrZ1pYWmxjbmtnWkdGNUlHSjVJRzE1SUVGSklHRnpjMmx6ZEdGdWRDb0tDbndnUkdGMFpTQjhJRUoxWnlCVWIzQnBZeUI4SUZkb1lYUWdTU0JNWldGeWJtVmtJSHdLZkMwdExYd3RMUzE4TFMwdGZBcDhJRUZ3Y2lBMExDQXlNREkySUh3Z1dGTlRJSHdnUkU5TkxXSmhjMlZrSUZoVFV5RGlnSlFnWVhSMFlXTnJaWElnWTI5dWRISnZiSE1nUkU5TklIZHBkR2h2ZFhRZ2MyVnlkbVZ5T3lCbGRtVnVkQzFvWVc1a2JHVnlJSEJoZVd4dllXUnpJR0o1Y0dGemN5Qm1hV3gwWlhKeklId0tmQ0JCY0hJZ05Td2dNakF5TmlCOElGaFRVeUI4SUZOMGIzSmxaQ0IyY3lCU1pXWnNaV04wWldRZ1dGTlRJT0tBbENCemRHOXlaV1FnY0dGNWJHOWhaQ0J3WlhKemFYTjBjeUJwYmlCRVFqc2dZRHh6ZG1jZ2IyNXNiMkZrUFdGc1pYSjBLREVwUG1BZ1lubHdZWE56WlhNZ2MyTnlhWEIwTFhSaFp5Qm1hV3gwWlhKeklId0tDaTB0TFFvS0l5TWc4SitPcnlCQ2RXY2dRbTkxYm5SNUlFcHZkWEp1WlhrS0NpMGc0cHlGSUVadmRXNWtJR1pwY25OMElIWjFiRzVsY21GaWFXeHBkSGs2SUNvcVUyRnRaVk4wWVhJZ1luVm5JRzl1SUZOdmJHOXNaV0Z5YmlvcUlDaHlaWEJ2Y25SbFpDa0tMU0R3bjVTRUlFTjFjbkpsYm5Sc2VTQnpkSFZrZVdsdVp6b2dXRk5USU9LR2tpQlRVVXhwSU9LR2tpQlRVMUpHSU9LR2tpQkpSRTlTSUhKdmRHRjBhVzl1Q2kwZzhKK09yeUJVWVhKblpYUWdjR3hoZEdadmNtMXpPaUJJWVdOclpYSlBibVVzSUVKMVoyTnliM2RrTENCSmJuUnBaM0pwZEdrS0xTRHduNU9hSUV4aFluTTZJRlJ5ZVVoaFkydE5aU3dnU0dGamExUm9aVUp2ZUFvS0xTMHRDZ29qSXlEd241S3NJRU52Ym01bFkzUWdWMmwwYUNCTlpRb0tXeUZiUm1GalpXSnZiMnRkS0doMGRIQnpPaTh2YVcxbkxuTm9hV1ZzWkhNdWFXOHZZbUZrWjJVdlJtRmpaV0p2YjJzdE1UZzNOMFl5UDNOMGVXeGxQV1pzWVhRbWJHOW5iejFtWVdObFltOXZheVpzYjJkdlEyOXNiM0k5ZDJocGRHVXBYU2hvZEhSd2N6b3ZMM2QzZHk1bVlXTmxZbTl2YXk1amIyMHZjMmhoY21Vdk1VVnBjRUpLTjJnek1TOHBDbHNoVzBkcGRFaDFZbDBvYUhSMGNITTZMeTlwYldjdWMyaHBaV3hrY3k1cGJ5OWlZV1JuWlM5SGFYUklkV0l0TVRBd01EQXdQM04wZVd4bFBXWnNZWFFtYkc5bmJ6MW5hWFJvZFdJbWJHOW5iME52Ykc5eVBYZG9hWFJsS1Ywb2FIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwwTjVZbVZ5UW5KdmN6UXpOU2tLQ2kwdExRb0tQR1JwZGlCaGJHbG5iajBpWTJWdWRHVnlJajRLQ2lvaTJLWFprTm1HMlk3WmtTRFlwOW1FMllUWmp0bVIyWWZaamlEWml0bVAySzNaa05pbzJZL1prU0RZcGRtUTJMRFpqdGluSU5pNTJZN1poZG1RMllUWmppRFlvOW1PMkszWmp0aXYyWS9aZzltUDJZWFpraURZdWRtTzJZWFpqdG1FMktmWml5RFlvOW1PMlliWmtpRFppdG1QMktyWmt0bUMyWkRaaHRtTzJZZlpqeUlxQ2lvcUlrRnNiR0ZvSUd4dmRtVnpJSFJvWVhRZ2QyaGxiaUI1YjNVZ1pHOGdjMjl0WlhSb2FXNW5MQ0I1YjNVZ1pHOGdhWFFnZDJsMGFDQmxlR05sYkd4bGJtTmxMaUlxS2dvS1BDOWthWFkrQ2c9PQ==
+<div align="center">
+
+# 👋 As-salamu alaykum! I'm Mudasir Zia
+
+### 🔐 Cybersecurity Student | 🐛 Bug Bounty Hunter | 💻 Web Developer
+**📍 Mansehra, Pakistan**
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 2nd Year FSC (Computer Science) student — Mansehra, Pakistan
+- 🔍 Actively learning **Bug Bounty Hunting** (XSS, SQLi, SSRF, IDOR)
+- 🌐 Web Developer: **HTML5, CSS3, JavaScript, Bootstrap5, PHP, MySQL**
+- 🐍 Python developer: **OOP, automation tools, security scripts**
+- 🌱 Currently learning: **Django** + advancing in **Web Pentesting**
+- 🎯 Goal: Become a professional Bug Hunter & Full-Stack Developer
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+---
+
+## 🔐 Security Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [XSS Injection Lab](https://github.com/CyberBros435/XSS_Injection_Lab) | Vulnerable lab for XSS & SQLi practice | PHP, HTML |
+| [IDOR Vuln Lab](https://github.com/CyberBros435/IDOR_vuln_LAB) | IDOR practice lab for bug hunters | Python |
+| [Hash Generator](https://github.com/CyberBros435/Hash_Generator) | Generate 12 hash types: MD5, SHA256, BLAKE2 | Python |
+| [Hash Cracker](https://github.com/CyberBros435/Hash_Cracker) | Crack common hash types | Python |
+| [Hash Identifier](https://github.com/CyberBros435/Hash_Identifier) | Identify unknown hash types | Python |
+| [DNS Server](https://github.com/CyberBros435/DNS_Server) | Domain info & public IP lookup tool | Python |
+| [IP Scanner](https://github.com/CyberBros435/IP_Scanner) | Network scanner with ping & more | Python |
+| [PDF Tools Suite](https://github.com/CyberBros435/PDF_compressor) | PDF compress, merge, split, convert | Python |
+
+---
+
+## 📈 Daily Learning Log
+
+> *Updated automatically every day by my AI assistant*
+
+| Date | Bug Topic | What I Learned |
+|---|---|---|
+| Apr 4, 2026 | XSS | DOM-based XSS — attacker controls DOM without server; event-handler payloads bypass filters |
+| Apr 5, 2026 | XSS | Stored vs Reflected XSS — stored payload persists in DB; `<svg onload=alert(1)>` bypasses script-tag filters |
+| Apr 7, 2026 | XSS | Advanced XSS bypass — namespace prefix tricks (`<x:script>`) evade blocklists; blind XSS via User-Agent in contact forms |
+
+---
+
+## 🎯 Bug Bounty Journey
+
+- ✅ Found first vulnerability: **SameStar bug on Sololearn** (reported)
+- 🔄 Currently studying: XSS → SQLi → SSRF → IDOR rotation
+- 🎯 Target platforms: HackerOne, Bugcrowd, Intigriti
+- 📚 Labs: TryHackMe, HackTheBox
+
+---
+
+## 💬 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1EipBJ7h31/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/CyberBros435)
+
+---
+
+<div align="center">
+
+*"إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلاً أَنْ يُتْقِنَهُ"*
+**"Allah loves that when you do something, you do it with excellence."**
+
+</div>
