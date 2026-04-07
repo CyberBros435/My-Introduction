@@ -58,7 +58,7 @@
 |---|---|---|
 | Apr 4, 2026 | XSS | DOM-based XSS — attacker controls DOM without server; event-handler payloads bypass filters |
 | Apr 5, 2026 | XSS | Stored vs Reflected XSS — stored payload persists in DB; `<svg onload=alert(1)>` bypasses script-tag filters |
-| Apr 7, 2026 | XSS | Advanced XSS bypass — namespace prefix tricks (`<x:script>`) evade blocklists; blind XSS via User-Agent in contact forms |
+| Apr 7, 2026 | XSS | Context-aware XSS — CSP bypass via script gadgets; `javascript:void` in href and mXSS mutation attacks on sanitizers |
 
 ---
 
