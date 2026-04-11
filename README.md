@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 As-salamu alaykum! I'm Mudasir Zia
+# 👋 Hello! I'm Mudasir Zia
 
 ### 🔐 Cybersecurity Student | 🐛 Bug Bounty Hunter | 💻 Full-Stack Developer
 **📍 Mansehra, Pakistan**
